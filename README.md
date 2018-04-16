@@ -1,2 +1,2 @@
 # Redirects
-HTML- &amp; PHP-Redirects
+HTML- &amp; PHP-Redirects with SEO
